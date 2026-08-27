@@ -10,7 +10,8 @@
 
 int main(int argc, char **argv) {
 
-    printf("Tucker Sup\n");
+    printf("Tucker Sup!\n");
+    printf("Major: Computer Engineering\n");
 
     return 0;
 }
